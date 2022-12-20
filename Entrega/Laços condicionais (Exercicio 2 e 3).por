@@ -27,7 +27,13 @@ programa
 		{
 			escreva("\nt\t\t\t\tvocê não está apto a votar")
 		}
+		senao
 		{
+			escreva("\nA pessoa não está apta a votar")
+		}
+		
+		{
+	
 		inteiro codigo,quantidade
 		real valor_total
 
